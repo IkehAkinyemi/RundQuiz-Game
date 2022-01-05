@@ -31,3 +31,4 @@ At the end of the quiz the program should output the total number of questions c
 
 > NOTE: CSV files may have questions with commas in them. Eg: "what 2+2, sir?",4 is a valid row in a CSV. I suggest you look into the CSV package in Go and don’t try to write your own CSV parser.
 
+### Check out the 
